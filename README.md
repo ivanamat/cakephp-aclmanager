@@ -1,5 +1,7 @@
-# CakePHP 3.x Acl Manager
+# CakePHP 4.x Acl Manager
+**WARNING!:** This project should not be used yet with CakePHP 4.x
 
+Currently this project is under development and does't have any stable version. The code comes from CakePHP 3.x and should be refactorized
 ## Installation
 
 ### Composer
